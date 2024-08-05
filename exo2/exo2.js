@@ -1,0 +1,10 @@
+let nombre = 2;
+let char = "diallo";
+let = IsTrue = true;
+let koultoumy;
+let bic = null;
+console.log(typeof nombre);
+console.log(typeof char);
+console.log(typeof IsTrue);
+console.log(typeof koultoumy);
+console.log(typeof null);
